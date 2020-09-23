@@ -1,2 +1,2 @@
-# Dacon-Competitions
+# Dacon_Competitions
 Exercising area
