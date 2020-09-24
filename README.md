@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/59557720/94132723-a8490d80-fe9a-11ea-92e8-25cfd09b7a47.png)
-[![이미지 설명](https://dacon.io/competitions/official/235551/overview/)](연결하고자하는 url "Dacon contest")
+!(https://dacon.io/competitions/official/235551/overview/)](연결하고자하는 url "Dacon contest")
 ## Dacon Study 2기✏
 > 2020.06-2020.07
 > 10명 이하의 소수 팀원들끼리 상위 팀들의 코드를 분석하며 온라인 스터디를 진행
